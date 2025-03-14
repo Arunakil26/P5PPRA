@@ -2,6 +2,7 @@ fun main(){
     abil()
     hours()
     genre( )
+    blalble()
 }
 
 fun abil(){
@@ -22,3 +23,9 @@ fun genre(){
     )
     println(isgood["PVP"])
 }
+
+fun blalble(){
+    var blabbla = listOf("Bleblu", "Bliblubla", "Blululu")
+    println(blabbla)
+}
+
