@@ -27,5 +27,6 @@ fun genre(){
 fun blalble(){
     var blabbla = listOf("Bleblu", "Bliblubla", "Blululu")
     println(blabbla)
+    var 1 = "Satu"
 }
 
